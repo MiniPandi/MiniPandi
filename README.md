@@ -1,4 +1,4 @@
-## MiniPandi's Portfolio 📚💻
+## About Me(MiniPandi)📚💻
 
 Hey there! 👋 I'm MiniPandi, a passionate learner and creator with a love for all things tech, especially Minecraft, web development 🌐, and Node.js applications 💻. 
 
