@@ -12,7 +12,7 @@ Hey there! 👋 I'm MiniPandi, a passionate learner and creator with a love for 
 
 **Currently Working On:**
 
-- **Minecraft Client:** A client side mod that adds essential cleint side featrues *insert cool features* 🤩
+- **Minecraft Client:** A client side mod that adds essential client side featrues *insert cool features* 🤩
 
 ### Interests:
 
