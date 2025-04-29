@@ -1,29 +1,38 @@
-## About Me(MiniPandi)📚💻
+# 👋 Hi, I'm MiniPandi
 
-Hey there! 👋 I'm MiniPandi, a passionate learner and creator with a love for all things tech, especially Minecraft, web development 🌐, and Node.js applications 💻. 
+## Full Stack Developer from Switzerland 🇨🇭
 
-### What I'm about:
+I've been coding since around 2021, developing a wide range of projects from Minecraft mods and plugins to Node.js applications, APIs, and websites. I'm particularly interested in the Minecraft community and have created several mods and plugins to enhance the gaming experience.
 
-- **Minecraft Enthusiast:** Lover of building epic structures, exploring new worlds, and creating custom mods 💎📚
-- **Web Developer:** Skilled in building responsive websites and applications 💪
-- **Node.js:** Building server-side applications and APIs with Node.js 💻
+## 🔧 Skills
+- Full Stack Development
+- Node.js
+- API Development
+- Web Development
+- Minecraft Mods & Plugins
 
-### My Projects:
+## 🚀 Projects
 
-**Currently Working On:**
+### [Epilogue Team](https://epilogue.team)
+I am one of the developers at Epilogue Team
 
-- **Minecraft Client:** A client side mod that adds essential client side featrues *insert cool features* 🤩
+### [Minecraft Server Status](https://mcss.minipandi.net/api/v1/ping?address=hypixel.net&bedrock=false)
+An easy-to-use Minecraft server status API built with Node.js
 
-### Interests:
+### [Minecraft Heads API](https://api.minipandi.net/mcheads?username=Mini_Pandi&size=64)
+A powerful API to get an image of a player's head
 
-- Learning new technologies and frameworks 💪
-- Building creative and useful applications 💻
-- Exploring the possibilities of blockchain technology 🌌
-- Helping others learn and grow 🤝
+### [Simple HTML Viewer](https://html.minipandi.net)
+A simple website to view some HTML code as a web page
 
-### How to Connect:
+### [GFont](https://github.com/MiniPandi/GFont) (Discontinued)
+A simple way to self-host Google fonts without all the tracking
 
-- **GitHub:** Follow me for updates on my projects and learning journey! ➡️
-- **Discord:** Join my Discord server to chat with me and other tech enthusiasts 💬
+### [IsIt.RIP?](https://isit.rip)
+A simple website to track the status of many major services
 
-**Let's connect and create something amazing together! ✨**
+## 📫 Contact Me
+- Email: [me@minipandi.net](mailto:me@minipandi.net)
+- Website: [minipandi.net](https://minipandi.net)
+
+<!-- Feel free to check out my repositories below and star any projects you find interesting! -->
